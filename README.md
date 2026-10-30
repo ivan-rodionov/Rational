@@ -1,2 +1,2 @@
-# project
+# Rational
 Родионов Иван УГАТУ
